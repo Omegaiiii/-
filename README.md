@@ -56,19 +56,35 @@ pictures for project
 <details>
 <summary>Click to expand</summary>
 
-whatever
+cat > "Домашние животные"
+Собаки
+Кошки
+Хомяки
+
+'Ctrl+d'
 
 </details>
-<details><summary>stuff with *mark* **down**</summary><p>
+Команды Bash
+<details>
+<summary>Click to expand</summary>
 
-## _formatted_ **heading** with [a](link)
-3
----3
-{{standard 3-backtick code block omitted from here due to escaping issues}}
----3
-3
-Collapsible until here.
-</p></details>
+cat > "Вьючные животные"
+Лошади
+Верблюды
+Ослы
+
+'Ctrl+d'
+
+</details>Команды Bash
+<details>
+<summary>Click to expand</summary>
+
+cat "Домашние животные" "Вьючные животные" > Animals
+cat Animals
+mv "Animals" "Друзья человека"
+
+</details>
+
 ![1_2 (1)](https://github.com/Omegaiiii/-/assets/136469312/1087fde5-9bd5-4df8-8f9e-ba8ce245d589)
 
 
