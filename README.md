@@ -63,7 +63,6 @@ cat > "Домашние животные"
 'Ctrl+d'
 
 </details>
-Команды Bash
 <details>
 <summary>Команды Bash</summary>
 
