@@ -398,7 +398,7 @@ SELECT 'Ослы' AS тип_животного, имя, команда, дата
 
 
 </details>
-13.14.15 - код Java
+13.14.15 - код Java https://github.com/Omegaiiii/-/tree/main/Java
 Подготовил студент Geek Brains Вербицкий Руслан, Final_control_work_on_the_specialization_block
 
 
