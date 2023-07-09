@@ -57,8 +57,11 @@ pictures for project
 <summary>Команды Bash</summary>
 
 cat > "Домашние животные"
+
 Собаки
+
 Кошки
+
 Хомяки
 
 'Ctrl+d'
@@ -83,7 +86,10 @@ cat > "Вьючные животные"
 <summary>Команды Bash</summary>
 
 cat "Домашние животные" "Вьючные животные" > Animals
+
+
 cat Animals
+
 mv "Animals" "Друзья человека"
 
 </details>
@@ -95,9 +101,13 @@ mv "Animals" "Друзья человека"
 <summary>Команды Bash</summary>
 
 mkdir folder_for_attestation
+
 mv 'Друзья человека' folder_for_attestation/
+
 ls
+
 cd folder_for_attestation/
+
 ls
 
 </details>
