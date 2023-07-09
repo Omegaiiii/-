@@ -2,7 +2,7 @@
 pictures for project
 
 Урок 2. Итоговая контрольная работа
-github.com/<Omegaiiii>/<->/blob/<branch_name>/README.md?plain=1#L14
+https://github.com/<url_to_file>#L<65r>
 
 Информация о проекте
 
