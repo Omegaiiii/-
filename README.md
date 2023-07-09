@@ -109,6 +109,7 @@ sudo apt install mysql-server
 sudo service mysql status
 
 </details>
+
 ![3_1 (1)](https://github.com/Omegaiiii/-/assets/136469312/e5d7e720-ef14-43e0-bcf8-5aeb035c9d52)
 ![3_2 (1)](https://github.com/Omegaiiii/-/assets/136469312/f7ab7450-b2bf-4e46-b994-3f1decadddb3)
 ![3_3 (1)](https://github.com/Omegaiiii/-/assets/136469312/2c8ef4f1-887f-4a6b-83bf-4fee168c85bb)
@@ -123,6 +124,7 @@ sudo dpkg -i sl_5.02-1_amd64.deb
 sudo dpkg -r sl
 
 </details>
+
 ![4_2 (1)](https://github.com/Omegaiiii/-/assets/136469312/9679e485-9200-4543-9cc5-07d572a219a0)
 
 5.
@@ -221,6 +223,7 @@ sudo dpkg -r sl
 
 
 </details>
+
 ![5 (1)](https://github.com/Omegaiiii/-/assets/136469312/8863cd53-631a-4460-ae9d-1bad4c9e2b29)
 6.
 ![diagram (1)](https://github.com/Omegaiiii/-/assets/136469312/a601f894-8945-4723-98f4-b32167d7ea0a)
@@ -308,6 +311,7 @@ show databases;
 show tables;
 
 </details>
+
 ![8 (1)](https://github.com/Omegaiiii/-/assets/136469312/a3841270-8208-4ad2-81df-2d03869f1fde)
 9.
 <details>
