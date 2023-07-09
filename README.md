@@ -2,7 +2,6 @@
 pictures for project
 
 Урок 2. Итоговая контрольная работа
-https://github.com/Omegaiiii/-/edit/main/README.md#L<65>
 
 Информация о проекте
 
